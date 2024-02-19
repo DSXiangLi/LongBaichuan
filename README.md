@@ -1,4 +1,4 @@
-Personal Test on Baichuan Long Context
+Testing Baichuan Long Context
 
 1. Dynamic NTK
 2. Logn熵不变
